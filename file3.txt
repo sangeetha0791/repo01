@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thaisjksajn
+
+this is a new file
+>>>>>>> 3b8254f26eedf6423e38247f2c27fcb8821a9efb
